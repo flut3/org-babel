@@ -1,0 +1,6 @@
+#+begin_src scheme :results silent
+  (+ 1 2)
+#+end_src
+
+#+RESULTS:
+: 3
